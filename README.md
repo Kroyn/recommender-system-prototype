@@ -4,7 +4,9 @@ Building a prototype recommendation system for movies/music.
 Develop a functional prototype of a recommendation system capable of generating personalized movie recommendations for users based on an analysis of their historical ratings and the behavior of similar users.
 # Installation requirements
 ## Arch Linux
-`sudo pacman -S python-matplotlib python-pandas python-scikit-learn python-pytorch python-statsmodels`
+```bash
+sudo pacman -S python-matplotlib python-pandas python-scikit-learn python-pytorch python-statsmodels
+```
 # Todo
 1. Collect and familiarize yourself with the dataset: Download the MovieLens dataset (e.g., ml-latest-small), study its structure, column descriptions, and overall amount of information.
 2. Preliminary analysis and data cleaning (EDA): Perform exploratory data analysis to identify anomalies, missing values, and gain an initial understanding of the distribution of ratings. Ensure data integrity.
