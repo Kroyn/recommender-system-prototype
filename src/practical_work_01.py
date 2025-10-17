@@ -55,27 +55,31 @@ def func4():
     else:
         print("Result: The hypothesis of randomness is not rejected. The trend is not statistically confirmed.")
 
-while True:
-    print("\n==============================")
-    print("Select the functions:")
-    print("(1) Visualization of the time series")
-    print("(2) Decomposition of the series into components")
-    print("(3) ACF of residuals")
-    print("(4) Trend test (runs test)")
-    print("(0) Exit")
-    print("==============================")
+if __name__ == "__main__":
+    if df is not None:
+        while True:
+            print("\n=======================================================")
+            print("Select the functions:")
+            print("(1) Visualization of the time series")
+            print("(2) Decomposition of the series into components")
+            print("(3) ACF of residuals")
+            print("(4) Trend test (runs test)")
+            print("(0) Exit")
+            print("\n=======================================================")
 
-    select = input("Enter number: ")
+            select = input("Enter number: ")
 
-    match select:
-        case '1':
-            func1()
-        case '2':
-            func2()
-        case '3':
-            func3()
-        case '4':
-            func4()
-        case _:
-            break
+            match select:
+                case '1':
+                    func1()
+                case '2':
+                    func2()
+                case '3':
+                    func3()
+                case '4':
+                    func4()
+                case '0':
+                    break
+                case _:
+                    print("Incorrect selection. Please try again.")
 
