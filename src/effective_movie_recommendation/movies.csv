@@ -1,0 +1,51 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,The Shawshank Redemption (1994),Drama
+12,The Godfather (1972),Crime|Drama
+13,The Dark Knight (2008),Action|Crime|Drama|Thriller
+14,Pulp Fiction (1994),Crime|Drama
+15,Forrest Gump (1994),Drama|Romance
+16,Inception (2010),Action|Adventure|Sci-Fi|Thriller
+17,The Matrix (1999),Action|Sci-Fi
+18,Goodfellas (1990),Crime|Drama
+19,The Silence of the Lambs (1991),Crime|Drama|Thriller
+20,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+21,The Lord of the Rings: The Fellowship of the Ring (2001),Adventure|Drama|Fantasy
+22,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+23,The Godfather: Part II (1974),Crime|Drama
+24,The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+25,Schindler's List (1993),Drama|War
+26,Fight Club (1999),Drama
+27,The Lord of the Rings: The Return of the King (2003),Adventure|Drama|Fantasy
+28,Interstellar (2014),Adventure|Drama|Sci-Fi
+29,The Prestige (2006),Drama|Mystery|Thriller
+30,The Departed (2006),Crime|Drama|Thriller
+31,The Green Mile (1999),Crime|Drama|Fantasy
+32,Gladiator (2000),Action|Adventure|Drama
+33,American History X (1998),Drama
+34,The Lion King (1994),Animation|Adventure|Drama
+35,The Shining (1980),Drama|Horror
+36,Alien (1979),Horror|Sci-Fi
+37,Avengers: Infinity War (2018),Action|Adventure|Sci-Fi
+38,Spirited Away (2001),Animation|Adventure|Family
+39,Parasite (2019),Comedy|Drama|Thriller
+40,The Truman Show (1998),Comedy|Drama
+41,La La Land (2016),Drama|Music|Romance
+42,Whiplash (2014),Drama|Music
+43,The Social Network (2010),Drama
+44,Inglourious Basterds (2009),Adventure|Drama|War
+45,Django Unchained (2012),Drama|Western
+46,The Wolf of Wall Street (2013),Biography|Crime|Drama
+47,Guardians of the Galaxy (2014),Action|Adventure|Comedy
+48,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi
+49,The Revenant (2015),Adventure|Drama|Thriller
+50,Gone Girl (2014),Drama|Mystery|Thriller
