@@ -5,7 +5,7 @@ Develop a functional prototype of a recommendation system capable of generating 
 # Installation requirements
 ## Arch Linux
 ```bash
-sudo pacman -S python-matplotlib python-pandas python-scikit-learn python-pytorch python-statsmodels
+sudo pacman -S python-matplotlib python-pandas python-scikit-learn python-pytorch python-statsmodels python-seaborn
 ```
 # Todo
 1. Collect and familiarize yourself with the dataset: Download the MovieLens dataset (e.g., ml-latest-small), study its structure, column descriptions, and overall amount of information.
